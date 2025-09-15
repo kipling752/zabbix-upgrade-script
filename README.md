@@ -10,3 +10,4 @@ Ce script permet de migrer un serveur Zabbix 7.2 vers 7.4 sur Ubuntu 22.04 avec 
 
 Le script est sécurisé et ne met jamais le mot de passe MySQL en clair sur la ligne de commande.
 # zabbix-upgrade-script
+# zabbix-upgrade-script

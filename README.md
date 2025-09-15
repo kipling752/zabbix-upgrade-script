@@ -12,3 +12,4 @@ Le script est sécurisé et ne met jamais le mot de passe MySQL en clair sur la 
 # zabbix-upgrade-script
 # zabbix-upgrade-script
 # zabbix-upgrade-script
+# zabbix-upgrade-script
